@@ -1,4 +1,4 @@
-<h2><strong>Bukti Screenshot</strong></h2>
+<h2><strong>Install Breeze</strong></h2>
 
 <p><strong>Sudah Instalasi Breeze</strong></p>
 
